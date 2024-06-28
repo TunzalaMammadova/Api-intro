@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{89003EFD-8525-4401-937F-42FB56F7DB5A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="API-intro/Controllers/CityController.cs">
+    <Files>
+      <File FileName="API-intro/Models/Category.cs" Line="13" Column="1" />
+      <File FileName="API-intro/Data/AppDbContext.cs" Line="16" Column="16" />
+      <File FileName="API-intro/Controllers/CityController.cs" Line="50" Column="1" />
+      <File FileName="API-intro/Models/City.cs" Line="11" Column="25" />
+      <File FileName="API-intro/Models/Country.cs" Line="10" Column="34" />
+      <File FileName="API-intro/Controllers/CountryController.cs" Line="21" Column="18" />
+      <File FileName="API-intro/Program.cs" Line="25" Column="1" />
+      <File FileName="API-intro/User.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API-intro" expanded="True">
+            <Node name="API-intro" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CityController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API-intro PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
